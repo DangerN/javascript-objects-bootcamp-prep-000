@@ -1,1 +1,1 @@
-var playlist = { Butthole Surfers: "Pepper"}
+var playlist = { ButtholeSurfers: "Pepper"}
